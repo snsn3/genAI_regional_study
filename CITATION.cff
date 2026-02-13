@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "genAI Regional Study - Code and Data"
+message: "If you use this software or data, please cite the paper and this repository."
+type: software
+authors:
+  - family-names: "Nzobonimpa"
+    given-names: "Stany"
+url: "https://github.com/snsn3/genAI_regional_study"
+repository-code: "https://github.com/snsn3/genAI_regional_study"
+license: MIT
+date-released: 2025-02-12
+preferred-citation:
+  type: article
+  title: "Study on LLMs' Regional Bias"
+  authors:
+    - family-names: "Nzobonimpa"
+      given-names: "Stany"
+  journal: "AI and Ethics"
+  year: 2025
+  doi: "10.1007/s43681-025-00906-2"

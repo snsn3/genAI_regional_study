@@ -1,0 +1,16 @@
+# GenAI Regional Study — Python dependencies
+# Install: pip install -r requirements.txt
+
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+seaborn>=0.12.0
+wordcloud>=1.8.0
+scipy>=1.9.0
+statsmodels>=0.14.0
+scikit-posthocs>=0.11.0
+
+# Optional: for Jupyter locally
+# jupyter>=1.0.0
+# notebook>=6.0.0
